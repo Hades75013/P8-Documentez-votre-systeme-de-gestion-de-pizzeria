@@ -1,6 +1,6 @@
 # P8-Documentez-votre-systeme-de-gestion-de-pizzeria
 
-##Contexte
+## Contexte
 « OC Pizza » est un jeune groupe de pizzeria en plein essor et spécialisé dans les pizzas livrées ou à emporter. 
 Il compte déjà 5 points de vente et prévoit d’en ouvrir au moins 3 de plus d’ici la fin de l’année. 
 Un des responsable du groupe a pris contact avec vous afin de mettre en place un système informatique sur-mesures, déployé dans toutes ses pizzerias et qui lui permettrait notamment :
@@ -15,7 +15,7 @@ payer en ligne leur commande s’il le souhaite, sinon, ils paieront directement
 * Le client a déjà fait une petite prospection et les logiciels existants qu’il a pu trouver ne lui conviennent pas.
 
 
-##Travail demandé
+## Travail demandé
 En tant qu’analyste-programmeur, votre rôle est évidemment de développer le système mais également de le documenter. Votre entreprise est engagé dans une démarche qualité pour la réalisation de ses produits. Dans ce projet, vous allez donc vous attacher à produire la documentation attendue, à savoir :
 
 * Un dossier de conception fonctionnelle : à l’attention de la maîtrise d’ouvrage (MOA) et de la maîtrise d’œuvre (MOE)
